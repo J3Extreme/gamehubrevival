@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "title": "Asphalt 6: Adrenaline",
+      "company": "Gameloft",
+      "productIconImgURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/icons/asphalt6.png",
+      "appId": "com.gameloft.android.GAND.GloftA6HP",
+      "productID": "0000002273"
+    },
+    {
+      "title": "Need for Speed Hot Pursuit",
+      "company": "EA",
+      "productIconImgURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/icons/nfshp.png",
+      "appId": "com.eamobile.nfshotpursuit_alabs",
+      "productID": "0000002274"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "title": "Kingdoms",
+      "company": "Mobage",
+      "productIconImgURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/icons/kingdoms.png",
+      "appId": "com.mobage.ww.a429.Kingdoms_Android",
+      "productID": "0000002413"
+    },
+    {
+      "title": "Zombie Farm",
+      "company": "The Playforge / Mobage",
+      "productIconImgURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/icons/zombiefarm.png",
+      "appId": "com.mobage.ww.a465.zombiefarm_android",
+      "productID": "0000002414"
+    },
+    {
+      "title": "Tap Slash Ninja",
+      "company": "Mobage",
+      "productIconImgURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/icons/ninja.png",
+      "appId": "com.mobage.ww.a467.TapSlashNinja_Sandbox",
+      "productID": "0000002415"
+    }
+  ]
+}

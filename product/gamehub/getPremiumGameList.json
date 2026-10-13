@@ -1,0 +1,43 @@
+{
+  "cpListVersion": "1.0.1",
+  "cpList": [
+    {
+      "cpName": "Gameloft",
+      "cpLogoURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/logos/gameloft.png",
+      "categoryID": "0000002273"
+    },
+    {
+      "cpName": "EA",
+      "cpLogoURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/logos/ea.png",
+      "categoryID": "0000002274"
+    },
+    {
+      "cpName": "Glu",
+      "cpLogoURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/logos/glu.png",
+      "categoryID": "0000002275"
+    }
+  ],
+  "games": [
+    {
+      "title": "Asphalt 6: Adrenaline",
+      "company": "Gameloft",
+      "productIconImgURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/icons/asphalt6.png",
+      "appId": "com.gameloft.android.GAND.GloftA6HP",
+      "productID": "0000002273"
+    },
+    {
+      "title": "Need for Speed Hot Pursuit",
+      "company": "EA",
+      "productIconImgURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/icons/nfshp.png",
+      "appId": "com.eamobile.nfshotpursuit_alabs",
+      "productID": "0000002274"
+    },
+    {
+      "title": "Gun Bros",
+      "company": "Glu Mobile",
+      "productIconImgURL": "https://raw.githubusercontent.com/gamehub/api/main/assets/icons/gunbros.png",
+      "appId": "com.glu.android.gunbros",
+      "productID": "0000002275"
+    }
+  ]
+}
